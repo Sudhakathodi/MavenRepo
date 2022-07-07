@@ -1,0 +1,7 @@
+<project name="MavenPrj1" default="WAR-build" basedir=".">
+	<description>MavenPrj1 - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
